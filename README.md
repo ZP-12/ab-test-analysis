@@ -22,5 +22,5 @@
 |------|------|
 | `ab_test_analysis.ipynb` | 完整分析代码（SQL 取数 + Python 统计检验 + 可视化） |
 | `ab_test_analysis.png` | 分析结果图表（转化率对比、分群异质性、收入分布） |
-| `ab_test_data.csv` | 模拟实验数据（用户维度 + 实验分组 + 转化 + 收入） |
+| `ab_test_data.xls` | 模拟实验数据（用户维度 + 实验分组 + 转化 + 收入） |
 
